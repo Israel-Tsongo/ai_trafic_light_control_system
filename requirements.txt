@@ -1,0 +1,11 @@
+numpy==1.20.1
+opencv_python==4.6.0.66
+pycuda==2022.2.2
+tensorrt==8.6.1
+pycuda
+tqdm
+protobuf
+onnx
+netron
+
+
